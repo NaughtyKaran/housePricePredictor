@@ -1,4 +1,4 @@
-# housePricePredictor
+# HousePricePredictor
 This is a program thats computes the prize of house in the state of california using the machine learning 
 We are using the linear regression algorithm for training our model, gradient descent algoritm is used for optimization
 # Dependencies 
